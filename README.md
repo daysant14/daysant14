@@ -5,14 +5,20 @@
   alt="header" style="width: 100%; display: block;" />
 
 </div>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school:I am a software development technologist graduated from ITLA.
-- :technologist: **Currently working on** `Frontend Development`
-- :boom: You can visit [MY WEBSITE](https://portafoliodayely.netlify.app/) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=dayelymariasantana.m&amp;color=EA4335&amp;style=flat-square)](mailto:dayelymariasantana.m@gmail.com)
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+- 🎓 Software Development Technologist graduated from **ITLA**
+- 💻 Currently diving deep into `Frontend Development` — I love building clean, interactive, and responsive user interfaces
+- 🌐 Feel free to explore my [**Portfolio Website**](https://portafoliodayely.netlify.app/) to see what I've been working on
+- 📬 I'm open to opportunities and collaborations!
+- 📩 Got something cool in mind or just want to connect?
+
+[![Send me Email](https://img.shields.io/static/v1?label=Email&message=dayelymariasantana.m@gmail.com&color=EA4335&style=flat-square)](mailto:dayelymariasantana.m@gmail.com)
 
 
 <br>
