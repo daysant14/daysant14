@@ -34,7 +34,7 @@
 </a>
 </p>
 
-  ![GitHub Snake](https://github.com/daysant14/daysant14/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
